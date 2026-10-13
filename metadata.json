@@ -1,0 +1,8 @@
+{
+  "name": "Josiah James",
+  "description": "Precision study timer, civil engineering board subject tracker, task planner, routine habit tracker, and exam countdown optimized for phones and laptops.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
